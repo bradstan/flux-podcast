@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Flux 播客</title>
+    <description>AI 转录的音频内容 - 用 ElevenLabs 高质量 TTS 生成</description>
+    <language>zh-CN</language>
+    <link>https://flux-podcast.github.io/podcast</link>
+    <ns0:author>Flux</ns0:author>
+    <ns0:explicit>no</ns0:explicit>
+    <ns0:category text="Technology"/>
+    <ns0:image>
+      <href>https://flux-podcast.github.io/podcast/logo.png</href>
+    </ns0:image>
+    <ns1:link href="https://flux-podcast.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+  </channel>
+</rss>
