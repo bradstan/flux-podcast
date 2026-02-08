@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://www.w3.org/2005/Atom" version="2.0">
   
   
@@ -39,7 +39,7 @@
     
     
     
-    <ns0:category text="Technology"/>
+    <ns0:category text="Technology" />
     
     
     
@@ -59,7 +59,7 @@
     
     
     
-    <ns1:link href="https://flux-podcast.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <ns1:link href="https://flux-podcast.github.io/podcast/feed.xml" rel="self" type="application/rss+xml" />
     
     
   
@@ -76,7 +76,7 @@
       <pubDate>Fri, 06 Feb 2026 18:14:17 GMT</pubDate>
       
       
-      <enclosure url="https://github.com/bradstan/flux-podcast/releases/download/episode-001/flux-podcast-episode-001.mp3" length="217382" type="audio/mpeg"/>
+      <enclosure url="https://github.com/bradstan/flux-podcast/releases/download/episode-001/flux-podcast-episode-001.mp3" length="217382" type="audio/mpeg" />
       
       
       <ns0:duration>00:01:23</ns0:duration>
@@ -85,7 +85,7 @@
       <guid>flux-podcast-episode-001</guid>
       
       
-      <guid isPermaLink="false"/>
+      <guid isPermaLink="false" />
       
     
     </item>
@@ -95,12 +95,12 @@
       <title>第 2 期：用openclaw实现数字永生计划（系统架构）</title>
       <description>系统架构设计：5 层架构（数据采集、数据处理、数据存储、安全保护、元数据），4 层数据模型（身份、记忆、思维、灵魂），3 个设计哲学（原生数据优先、矛盾是特征、演变是价值）</description>
       <pubDate>Sat, 07 Feb 2026 04:35:01 GMT</pubDate>
-      <enclosure url="https://github.com/bradstan/flux-podcast/releases/download/episode-002/digital-immortal-audio.mp3" length="10974398" type="audio/mpeg"/>
+      <enclosure url="https://github.com/bradstan/flux-podcast/releases/download/episode-002/digital-immortal-audio.mp3" length="10974398" type="audio/mpeg" />
       <ns0:duration>00:12:00</ns0:duration>
       <guid>flux-podcast-episode-002</guid>
-      <guid isPermaLink="false"/>
+      <guid isPermaLink="false" />
     </item>
-  </channel>
+  <item><title>测试：自动生成音频验证</title><description>使用ElevenLabs TTS生成的测试episode，验证Flux Podcast自动化发布流程。</description><pubDate>Sun, 08 Feb 2026 00:29:14 GMT</pubDate><enclosure url="https://github.com/bradstan/flux-podcast/releases/download/episode-20260208-003/audio-1770487233842.mp3" length="134425" type="audio/mpeg" /><ns0:duration>00:05:00</ns0:duration><guid>flux-podcast-episode-003</guid><ns0:author>Flux</ns0:author></item></channel>
   
   
 
